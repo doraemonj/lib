@@ -1,0 +1,61 @@
+html {
+  font-family: $global-font-family;
+  font-weight: $global-font-weight;
+  font-display: swap;
+  font-size: $global-font-size;
+  line-height: $global-line-height;
+  width:100%;
+}
+
+/* scrollbar, only support webkit */
+::-webkit-scrollbar {
+  width: .5rem;
+  height: .5rem;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: $scrollbar-color;
+
+  &:hover {
+    background-color: $scrollbar-hover-color;
+  }
+}
+
+::selection {
+  background-color: $selection-color;
+
+  [theme=dark] & {
+    background-color: $selection-color-dark;
+  }
+}
+
+body {
+  background-color: $global-background-color;
+  color: $global-font-color;
+  @include overflow-wrap(break-word);
+  scrollbar-color: auto;
+
+  &[theme=dark] {
+    color: $global-font-color-dark;
+    background-color: $global-background-color-dark;
+  }
+}
+
+/*这就是网上普遍流传的Hugo图片变小问题，看了下面这个链接于2022-03-12 17:33:23解决了，加了下面四行代码，开心：https://github.com/aFarkas/lazysizes/issues/508*/
+img[data-sizes="auto"] {
+    display: block;
+    width: 100%;
+}
+
+@include ms;
+@include link(true, true);
+
+@import "../_partial/mask";
+@import "../_partial/icon";
+@import "../_partial/details";
+@import "../_partial/fixed-button";
+@import "../_partial/cookieconsent";
+
+img {
+  @include object-fit(contain);
+}
