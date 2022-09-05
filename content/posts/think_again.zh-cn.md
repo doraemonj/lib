@@ -7,8 +7,8 @@ draft: false
 tags: ["思考"]
 categories: ["思考"]
 author: "亚当 · 格兰特"
-featuredImagePreview: https://doraemonj.github.io/pics/think_again_long.png
-featuredImage: https://doraemonj.github.io/pics/think_again_long.png
+featuredImagePreview: https://doraemonj.github.io/pics/think_again_long_zh.png
+featuredImage: https://doraemonj.github.io/pics/think_again_long_zh.png
 ---
 
 重新思考

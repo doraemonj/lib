@@ -493,13 +493,13 @@ bilibili:
   Icon:
     Src: svg/icons/bilibili.svg
 
-# 063: Email
-email:
+# 063：Libmind
+libmind:
   Weight: 63
-  Template: mailto:%v
-  Title: Email
+  Prefix: https://libmind.com/
+  Title: Libmind
   Icon:
-    Class: far fa-envelope fa-fw
+    Src: svg/icons/libmind_site_logo.svg
 
 # 064: RSS
 rss:
@@ -509,3 +509,11 @@ rss:
   Newtab: true
   Icon:
     Class: fas fa-rss fa-fw
+
+# 063: Email
+email:
+  Weight: 65
+  Template: mailto:%v
+  Title: Email
+  Icon:
+    Class: far fa-envelope fa-fw

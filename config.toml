@@ -58,7 +58,7 @@ publishDir = "/Users/tangqiang/libmind.github.io/"
     weight = 2
     title = "libmind"
     languageCode = "ja"
-    languageName = "日語"
+    languageName = "日本語"
     [[languages.ja.menu.main]]
       identifier = "blog"
       pre = ""
@@ -431,7 +431,7 @@ publishDir = "/Users/tangqiang/libmind.github.io/"
 
   # 作者的社交信息设置
   [params.social]
-    GitHub = "libmind"
+    GitHub = ""        # libmind
     Linkedin = ""
     Twitter = ""
     Instagram = ""
@@ -493,8 +493,10 @@ publishDir = "/Users/tangqiang/libmind.github.io/"
     XMPP = ""
     Matrix = ""
     Bilibili = ""
+    libmind= "personal-library"
     Email = "chrishowardaka@gmail.com"
     RSS = false #
+
 
   #  文章页面配置
   [params.page]
