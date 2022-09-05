@@ -19,7 +19,7 @@ If you got any questions, please:
 
 - Support website: libmind.com
 - Mixin messenger: 29273
-- MIxin robot: 7000104144
+- Mixin robot: 7000104144
 - Twitter: ChrisHowardaka
 - Email: chrishowardaka@gmail.com
 
