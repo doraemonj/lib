@@ -1,19 +1,23 @@
 libmindlibmindbaseURL = "https://libmind.github.io/"
 # [en, zh-cn, fr, ...] 设置默认的语言
-defaultContentLanguage = "zh-cn"
+defaultContentLanguage = "en"
 # 网站语言, 仅在这里 CN 大写
 languageCode = "en"
 # 是否包括中日韩文字
 hasCJKLanguage = true
 # 网站标题
-title = "libmind’s Library"
+title = "Libmind’s Library"
 # 更改使用 Hugo 构建网站时使用的默认主题
 theme = "LoveIt"
 publishDir = "/Users/tangqiang/libmind.github.io/"
 
+
+# multi-language settings
+# en, ja, de, es, fr, ru, zh-cn
 [languages]
+# language: en
   [languages.en]
-    weight = 2
+    weight = 1
     title = "libmind"
     languageCode = "en"
     languageName = "English"
@@ -21,7 +25,7 @@ publishDir = "/Users/tangqiang/libmind.github.io/"
       identifier = "blog"
       pre = ""
       post = ""
-      name = "Blogs"
+      name = "Books"
       url = "/posts/"
       title = ""
       weight = 1
@@ -49,9 +53,200 @@ publishDir = "/Users/tangqiang/libmind.github.io/"
       url = "/about/"
       title = ""
       weight = 4
+# language: ja
+  [languages.ja]
+    weight = 2
+    title = "libmind"
+    languageCode = "ja"
+    languageName = "日語"
+    [[languages.ja.menu.main]]
+      identifier = "blog"
+      pre = ""
+      post = ""
+      name = "書籍"
+      url = "/posts/"
+      title = ""
+      weight = 1
+    [[languages.ja.menu.main]]
+      identifier = "tags"
+      pre = ""
+      post = ""
+      name = "タグ"
+      url = "/tags/"
+      title = ""
+      weight = 2
+    [[languages.ja.menu.main]]
+      identifier = "categories"
+      pre = ""
+      post = ""
+      name = "カテゴリー"
+      url = "/categories/"
+      title = ""
+      weight = 3
+    [[languages.ja.menu.main]]
+      identifier = "about"
+      pre = ""
+      post = ""
+      name = "について"
+      url = "/about/"
+      title = ""
+      weight = 4
+# language: de
+  [languages.de]
+    weight = 3
+    title = "libmind"
+    languageCode = "de"
+    languageName = "Deutsch"
+    [[languages.de.menu.main]]
+      identifier = "blog"
+      pre = ""
+      post = ""
+      name = "Bücher"
+      url = "/posts/"
+      title = ""
+      weight = 1
+    [[languages.de.menu.main]]
+      identifier = "tags"
+      pre = ""
+      post = ""
+      name = "Tags"
+      url = "/tags/"
+      title = ""
+      weight = 2
+    [[languages.de.menu.main]]
+      identifier = "categories"
+      pre = ""
+      post = ""
+      name = "Kataloge"
+      url = "/categories/"
+      title = ""
+      weight = 3
+    [[languages.de.menu.main]]
+      identifier = "about"
+      pre = ""
+      post = ""
+      name = "Über"
+      url = "/about/"
+      title = ""
+      weight = 4
+# language: es
+  [languages.es]
+    weight = 4
+    title = "libmind-es"
+    languageCode = "es"
+    languageName = "Español"
+    [[languages.es.menu.main]]
+      identifier = "blog"
+      pre = ""
+      post = ""
+      name = "Libros"
+      url = "/posts/"
+      title = ""
+      weight = 1
+    [[languages.es.menu.main]]
+      identifier = "tags"
+      pre = ""
+      post = ""
+      name = "Tags"
+      url = "/tags/"
+      title = ""
+      weight = 2
+    [[languages.es.menu.main]]
+      identifier = "categories"
+      pre = ""
+      post = ""
+      name = "Categorías"
+      url = "/categories/"
+      title = ""
+      weight = 3
+    [[languages.es.menu.main]]
+      identifier = "about"
+      pre = ""
+      post = ""
+      name = "Acerca"
+      url = "/about/"
+      title = ""
+      weight = 4
+# language: fr
+  [languages.fr]
+    weight = 5
+    title = "libmind"
+    languageCode = "fr"
+    languageName = "Français"
+    [[languages.fr.menu.main]]
+      identifier = "blog"
+      pre = ""
+      post = ""
+      name = "Livres"
+      url = "/posts/"
+      title = ""
+      weight = 1
+    [[languages.fr.menu.main]]
+      identifier = "tags"
+      pre = ""
+      post = ""
+      name = "Étiquettes"
+      url = "/tags/"
+      title = ""
+      weight = 2
+    [[languages.fr.menu.main]]
+      identifier = "categories"
+      pre = ""
+      post = ""
+      name = "Catogories"
+      url = "/categories/"
+      title = ""
+      weight = 3
+    [[languages.fr.menu.main]]
+      identifier = "about"
+      pre = ""
+      post = ""
+      name = "À propos de"
+      url = "/about/"
+      title = ""
+      weight = 4
 
+# language: ru
+  [languages.ru]
+    weight = 6
+    title = "libmind"
+    languageCode = "ru"
+    languageName = "Русский"
+    [[languages.ru.menu.main]]
+      identifier = "blog"
+      pre = ""
+      post = ""
+      name = "Книги"
+      url = "/posts/"
+      title = ""
+      weight = 1
+    [[languages.ru.menu.main]]
+      identifier = "tags"
+      pre = ""
+      post = ""
+      name = "Теги"
+      url = "/tags/"
+      title = ""
+      weight = 2
+    [[languages.ru.menu.main]]
+      identifier = "categories"
+      pre = ""
+      post = ""
+      name = "Катагории"
+      url = "/categories/"
+      title = ""
+      weight = 3
+    [[languages.ru.menu.main]]
+      identifier = "about"
+      pre = ""
+      post = ""
+      name = "О нас"
+      url = "/about/"
+      title = ""
+      weight = 4
+# language: zh-cn
   [languages.zh-cn]
-    weight = 1
+    weight = 7
     title = "libmind"
     # 网站语言, 仅在这里 CN 大写
     languageCode = "zh-CN"
@@ -62,7 +257,7 @@ publishDir = "/Users/tangqiang/libmind.github.io/"
       identifier = "posts"
       pre = ""
       post = ""
-      name = "文章"
+      name = "藏书"
       url = "/posts/"
       title = ""
       weight = 1
@@ -90,6 +285,7 @@ publishDir = "/Users/tangqiang/libmind.github.io/"
       url = "/about/"
       title = ""
       weight = 4
+
 
 [params]
   #  LoveIt 主题版本
@@ -245,7 +441,7 @@ publishDir = "/Users/tangqiang/libmind.github.io/"
     Gitlab = ""
     Youtubelegacy = ""
     Youtubecustom = ""
-    Youtubechannel = ""  # 待发布 UCZnRJIzwFtENopNDdUAPgVA
+    Youtubechannel = "UCx2VXHTOXRRDA0NdMJvoGWQ"
     Tumblr = ""
     Quora = ""
     Keybase = ""
@@ -254,7 +450,7 @@ publishDir = "/Users/tangqiang/libmind.github.io/"
     Codepen = ""
     FreeCodeCamp = ""
     Bitbucket = ""
-    Stackoverflow = "19108034"
+    Stackoverflow = ""
     Weibo = ""
     Odnoklassniki = ""
     VK = ""

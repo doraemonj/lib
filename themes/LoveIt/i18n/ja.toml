@@ -1,188 +1,186 @@
-# Translations for Simplified Chinese
-# 简体中文的翻译
+# Translations for Japanese
 # https://gohugo.io/content-management/multilingual/#translation-of-strings
 
 # === baseof ==
 [backToTop]
-other = "回到顶部"
+other = "このページのトップへ戻る"
 
 [viewComments]
-other = "查看评论"
+other = "コメントを見る"
 # === baseof ==
 
 # === Post ===
 [posts]
-other = "藏书"
+other = "書籍"
 # === Post ===
 
 # === Taxonomy ===
 [allSome]
-other = "全部{{ .Some }}"
+other = "すべて{{ .Some }}"
 
 [tag]
-other = "标签"
+other = "タグ"
 
 [tags]
-other = "标签"
+other = "タグ"
 
 [category]
-other = "分类"
+other = "カテゴリー"
 
 [categories]
-other = "分类"
+other = "カテゴリー"
 # === Taxonomy ===
 
 # === Pagination ===
 [more]
-other = "更多"
+other = "もっと見る"
 # === Pagination ===
 
 # === partials/header.html ===
 [selectLanguage]
-other = "选择语言"
+other = "言語を選択"
 
 [switchTheme]
-other = "切换主题"
+other = "テーマ切り替え"
 # === partials/header.html ===
 
 # === partials/footer.html ===
 [poweredBySome]
-other = "由 {{ .Hugo }} 强力驱动 | 主题 - {{ .Theme }}"
+other = "搭載機種 {{ .Hugo }} | テーマ - {{ .Theme }}"
 # === partials/footer.html ===
 
 # === partials/comment.html ===
 [valineLang]
-other = "zh-cn"
+other = "ja"
 
 [valinePlaceholder]
-other = "你的评论 ..."
+other = "あなたのコメント..."
 
 [facebookLanguageCode]
-other = "zh_CN"
+other = "ja"
 # === partials/comment.html ===
 
 # === partials/assets.html ===
 [search]
-other = "搜索"
+other = "検索"
 
 [searchPlaceholder]
-other = "中文搜索特别快"
+other = "日本語検索が速い..."
 
 [clear]
-other = "清空"
+other = "クリア"
 
 [cancel]
-other = "取消"
+other = "キャンセル"
 
 [noResultsFound]
-other = "没有找到结果"
+other = "検索結果がありません"
 
 [lunrLanguageCode]
-other = "zh"
+other = "ja"
 
 [lunrLanguageLib]
-other = "lib/lunr/lunr.zh.js"
-
-[lunrSegmentitLib]
-other = "lib/lunr/lunr.segmentit.js"
+other = "lib/lunr/lunr.ja.js"
 
 [copyToClipboard]
-other = "复制到剪贴板"
+other = "クリップボードにコピーする"
 
 [cookieconsentMessage]
-other = "本网站使用 Cookies 来改善您的浏览体验."
+other = "このウェブサイトでは、お客様の利便性を向上させるためにCookieを使用しています。"
 
 [cookieconsentDismiss]
 other = "同意"
 
 [cookieconsentLink]
-other = "了解更多"
+other = "詳細はこちら"
 # === partials/assets.html ===
 
 # === partials/plugin/share.html ===
 [shareOn]
-other = "分享到"
+other = "共有する"
 # === partials/plugin/share.html ===
 
 # === posts/single.html ===
 [contents]
-other = "目录"
+other = "カタログ"
 
 [publishedOnDate]
-other = "{{ .Date }} "
+other = "{{ .Date }}"
 
 [includedInCategories]
-other = "类别 {{ .Categories }}"
+other = "カテゴリー{{ .Categories }}"
 
 [wordCount]
-other = "{{ .Count }} 字"
+one = "One word"
+other = "{{ .Count }}単語数"
 
 [readingTime]
-other = "预计阅读 {{ .Count }} 分钟"
+one = "One minute"
+other = "読書時間の目安{{ .Count }}分"
 
 [views]
-other = "次阅读"
+other = "読み取り回数"
 
 [author]
-other = "作者"
+other = "著者名"
 
 [updatedOnDate]
-other = "更新于 {{ .Date }}"
+other = "更新日{{ .Date }}"
 
 [readMarkdown]
-other = "阅读原文"
+other = "原文を読む"
 
 [back]
-other = "返回"
+other = "背面"
 
 [home]
-other = "主页"
+other = "ホーム"
 
 [readMore]
-other = "阅读全书"
+other = "全文を読む"
 # === posts/single.html ===
 
 # === 404.html ===
 [pageNotFound]
-other = "页面没找到"
+other = "ページが見つかりません"
 
 [pageNotFoundText]
-other = "抱歉，您要查找的页面不存在。"
+other = "申し訳ございませんが、お探しのページは存在しません。"
 # === 404.html ===
 
 # === shortcodes/admonition.html ===
 [note]
-other = "注意"
+other = "備考"
 
 [abstract]
-other = "摘要"
+other = "概要"
 
 [info]
-other = "信息"
+other = "インフォメーション"
 
 [tip]
-other = "技巧"
+other = "ヒント"
 
 [success]
 other = "成功"
 
 [question]
-other = "问题"
+other = "問題点"
 
 [warning]
 other = "警告"
 
 [failure]
-other = "失败"
+other = "失敗例"
 
 [danger]
-other = "危险"
+other = "危険性"
 
 [bug]
-other = "Bug"
+other = "バグ"
 
 [example]
-other = "示例"
+other = "例"
 
 [quote]
 other = "引用"
@@ -190,11 +188,11 @@ other = "引用"
 
 # === shortcodes/version.html ===
 [new]
-other = "新增"
+other = "追加"
 
 [changed]
-other = "更改"
+other = "変更"
 
 [deleted]
-other = "删除"
+other = "削除"
 # === shortcodes/version.html ===

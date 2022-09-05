@@ -11,7 +11,7 @@ other = "View Comments"
 
 # === Post ===
 [posts]
-other = "Blogs"
+other = "Books"
 # === Post ===
 
 # === Taxonomy ===
@@ -65,7 +65,7 @@ other = "en_US"
 other = "Search"
 
 [searchPlaceholder]
-other = "English search also swift..."
+other = "Swift English Search..."
 
 [clear]
 other = "Clear"
