@@ -355,7 +355,7 @@ publishDir = "/Users/tangqiang/libmind.github.io/"
       # LOGO 的 URL
       logo = ""
       # 标题名称
-      name = "libmind"
+      name = "Libmind's Library"
       # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
       pre = ""
       # 你可以在名称 (允许 HTML 格式) 之后添加其他信息, 例如图标
@@ -634,7 +634,7 @@ publishDir = "/Users/tangqiang/libmind.github.io/"
         width = "100%"
         numPosts = 10
         appId = ""
-        languageCode = "zh_CN"
+        languageCode = "en"
       #  Telegram Comments 评论系统设置
       [params.page.comment.telegram]
         enable = false

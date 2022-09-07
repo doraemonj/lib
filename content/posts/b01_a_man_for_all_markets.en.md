@@ -1,14 +1,14 @@
 ---
 title: "A Man for All Markets"
 summary: "from Las Vegas to Wall Street. How I Beat the Dealer and The Market"
-date: 2022-09-06T16:29:50+08:00
+date: 2022-09-07T17:24:59+08:00
 draft: false
 
 tags: ["probability"]
 categories: ["probability"]
-author: "Adam Grant"
-featuredImagePreview: https://libmind.github.io/img/b01_a_man_for_all_markets/long_en.png
-featuredImage: https://libmind.github.io/img/b01_a_man_for_all_markets/long_en.png
+author: "Edward O. Thorp"
+featuredImagePreview: https://libmind.github.io/img/b01_a_man_for_all_markets/en.png
+featuredImage: https://libmind.github.io/img/b01_a_man_for_all_markets/en.png
 ---
 
 ## PREFACE
