@@ -4,7 +4,7 @@ summary: "Wie wir wissen, was wirklich wahr ist"
 date: 2022-09-07T17:00:13+08:00
 draft: false
 
-tags: ["Mythologie und moderne Wissenschaft"]
+tags: ["Mythologie"]
 categories: ["Mythologie"]
 author: "Richard Dawkins"
 featuredImagePreview: https://libmind.github.io/img/b27_the_magic_of_reality/de.png

@@ -3806,16 +3806,3 @@ Zimmerman, M. J., 2008. *Mit der Ungewissheit leben: Die moralische Bedeutung vo
 # ÜBER DEN AUTOR
 
 NASSIM NICHOLAS TALEB war einundzwanzig Jahre lang ein Risikoträger, bevor er sich mit philosophischen, mathematischen und meist (sehr) praktischen Problemen der Wahrscheinlichkeit beschäftigte.
-
-![Penguin Random House Back Ad logo](images/000024.jpg)
-
-# *Was steht als nächstes auf Ihrer Leseliste?*
-
-[Entdecken Sie Ihre nächste
-tolle Lektüre!](http://links.penguinrandomhouse.com/type/prhebooklanding/isbn/9780425284636/display/1)
-
-------
-
-Erhalten Sie personalisierte Buchempfehlungen und aktuelle Nachrichten über diesen Autor.
-
-[Melden Sie sich jetzt an.](http://links.penguinrandomhouse.com/type/prhebooklanding/isbn/9780425284636/display/2)

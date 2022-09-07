@@ -4,7 +4,7 @@ summary: "How We Know What's Really True"
 date: 2022-09-07T09:20:10+08:00
 draft: false
 
-tags: ["Mythology and Modern Science"]
+tags: ["Mythology"]
 categories: ["Mythology"]
 author: "Richard Dawkins"
 featuredImagePreview: https://libmind.github.io/img/b27_the_magic_of_reality/en.png

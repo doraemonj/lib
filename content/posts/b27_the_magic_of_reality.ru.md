@@ -4,7 +4,7 @@ summary: "Как мы узнаем, что на самом деле являет
 date: 2022-09-07T17:10:28+08:00
 draft: false
 
-tags: ["Мифология и современная наука"]
+tags: ["Мифология"]
 categories: ["Мифология"]
 author: "Ричард Докинз"
 featuredImagePreview: https://libmind.github.io/img/b27_the_magic_of_reality/ru.png

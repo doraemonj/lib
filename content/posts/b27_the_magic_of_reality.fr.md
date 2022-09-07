@@ -4,7 +4,7 @@ summary: "Comment nous savons ce qui est vraiment vrai"
 date: 2022-09-07T17:09:20+08:00
 draft: false
 
-tags: ["Mythologie et science moderne"]
+tags: ["Mythologie"]
 categories: ["Mythologie"]
 author: "Richard Dawkins"
 featuredImagePreview: https://libmind.github.io/img/b27_the_magic_of_reality/fr.png

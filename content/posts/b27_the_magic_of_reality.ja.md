@@ -4,7 +4,7 @@ summary: "私たちはどのようにして本当のことを知るのか"
 date: 2022-09-07T16:55:04+08:00
 draft: false
 
-tags: ["神話と現代科学"]
+tags: ["神話"]
 categories: ["神話"]
 author: "リチャード・ドーキンス"
 featuredImagePreview: https://libmind.github.io/img/b27_the_magic_of_reality/ja.png

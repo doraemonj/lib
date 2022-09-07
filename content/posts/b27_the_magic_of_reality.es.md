@@ -4,7 +4,7 @@ summary: "Cómo sabemos lo que es realmente cierto"
 date: 2022-09-07T17:05:15+08:00
 draft: false
 
-tags: ["Mitología y ciencia moderna"]
+tags: ["Mitología"]
 categories: ["Mitología"]
 author: "Richard Dawkins"
 featuredImagePreview: https://libmind.github.io/img/b27_the_magic_of_reality/es.png

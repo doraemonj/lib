@@ -4,7 +4,7 @@ summary: "我们如何知道真相是什么"
 date: 2022-09-07T09:55:15+08:00
 draft: false
 
-tags: ["神话和现代科学"]
+tags: ["神话"]
 categories: ["神话"]
 author: "理查德·道金斯"
 featuredImagePreview: https://libmind.github.io/img/b27_the_magic_of_reality/zh.png
