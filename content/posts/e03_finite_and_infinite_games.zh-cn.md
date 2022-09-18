@@ -11,7 +11,7 @@ featuredImagePreview: https://libmind.github.io/img/e03_finite_and_infinite_game
 featuredImage: https://libmind.github.io/img/e03_finite_and_infinite_games/zh.png
 ---
 
-![images](https://libmind.github.io/img/e03_finite_and_infinite_gamesimages/000003.jpg)
+![images](https://libmind.github.io/img/e03_finite_and_infinite_games/images/000003.jpg)
 
 ### 1
 
@@ -21,7 +21,7 @@ featuredImage: https://libmind.github.io/img/e03_finite_and_infinite_games/zh.pn
 
 ### 2
 
-如果一个有限的游戏要由某人赢得，它必须有一个明确的结局。*当*有人获胜*时，*它就会结束。
+一个分胜负的有限游戏，必须有一个明确的结局。当有人获胜时，它就会结束。
 
 当所有玩家都同意谁是赢家时，我们就知道有人赢得了游戏。在确定谁是游戏的赢家时，除了玩家的同意之外，没有其他条件是绝对需要的。
 
@@ -31,7 +31,7 @@ featuredImage: https://libmind.github.io/img/e03_finite_and_infinite_games/zh.pn
 
 除非玩家自由选择玩这个游戏，否则就没有有限的游戏。没有人可以玩谁是被迫玩的。
 
-所有的游戏，不管是有限的还是无限的，都有一个不变的原则，那就是谁玩，谁就自由地玩。谁*必须*玩，谁就不能*玩。*
+所有的游戏，不管是有限的还是无限的，都有一个不变的原则，那就是谁玩，谁就自由地玩。那些被强迫玩着游戏的人，就不能玩这个游戏。
 
 ### 3
 
@@ -401,7 +401,7 @@ featuredImage: https://libmind.github.io/img/e03_finite_and_infinite_games/zh.pn
 
 邪恶不是将有限游戏纳入无限游戏，而是将所有游戏限制在一个或另一个有限游戏中。
 
-![images](https://libmind.github.io/img/e03_finite_and_infinite_gamesimages/000001.jpg)
+![images](https://libmind.github.io/img/e03_finite_and_infinite_games/images/000001.jpg)
 
 ### 32
 
@@ -685,7 +685,7 @@ featuredImage: https://libmind.github.io/img/e03_finite_and_infinite_games/zh.pn
 
 诗人不能杀人；他们死了。形而上学不能死；它杀人。
 
-![images](https://libmind.github.io/img/e03_finite_and_infinite_gamesimages/000006.jpg)
+![images](https://libmind.github.io/img/e03_finite_and_infinite_games/images/000006.jpg)
 
 ### 51
 
@@ -859,7 +859,7 @@ featuredImage: https://libmind.github.io/img/e03_finite_and_infinite_games/zh.pn
 
 无限的恋人符合他人的性期待，这种方式并没有暴露出一些隐藏的东西，而是揭开了一些显而易见的东西：性接触是自由人的诗意。在这种暴露中，他们作为他们自己的人出现。他们带着自己的局限去见别人，而不是在自己的局限中见别人。在这样做的过程中，他们期待着被改变--而且是被改变。
 
-![images](https://libmind.github.io/img/e03_finite_and_infinite_gamesimages/000010.jpg)
+![images](https://libmind.github.io/img/e03_finite_and_infinite_games/images/000010.jpg)
 
 ### 63
 
@@ -883,15 +883,15 @@ featuredImage: https://libmind.github.io/img/e03_finite_and_infinite_games/zh.pn
 
 观众由观察比赛但不参与比赛的人组成。
 
-没有人可以决定谁是观众。任何权力的行使都不能创造一个世界。一个世界必须是它自己的自发来源。"一个世界的世界"（海德格尔）。谁*必须*是一个世界就不能*是*一个世界。
+没有人可以决定谁是观众。任何权力的行使都不能创造一个世界。一个世界必须是它自己的自发来源。"一个世界的世界"（海德格尔）。谁必须是一个世界就不能是一个世界。
 
 加入听众的人数是不相关的。观众发生的时间和空间也是如此。一个有限游戏的时间和空间边界必须是绝对的--与观众或世界有关。但一个世界在何时何地发生，以及它包括谁，并不重要。人们不会说："1963年11月22日，我在这个世界上，或者说观众，"，而是说："当我听到总统被枪杀的消息时，我刚从车里出来，正在考虑晚餐做什么。"听众的身份不是根据其内部的人而得到的，而是根据其观察到的事件而得到的。那些记得那一天的人准确地记得他们在那一天的下午所做的事情，不是因为那一天是11月22日，而是因为在那一刻，他们成为了那一天事件的观众。
 
 如果观众的边界无关紧要，相关的是观众的统一性。他们必须是一个单一的实体，被捆绑在他们的愿望中，看谁将赢得他们面前的比赛。任何不以这种愿望为首要的人都不在那场比赛的观众中，也不是那个世界上的人。
 
-一个有限游戏需要一个观众，它可以在观众面前进行游戏，而观众需要单一地沉浸在它面前的事件中，这一事实表明了有限游戏和世界的关键互惠性。有限的游戏者需要世界来为理解他们自己提供一个绝对的参考；同时，世界需要有限游戏的剧场来保持一个世界。乔治-艾略特的反派角色格兰考，"对任何人的钦佩都不屑一顾；但这种不屑一顾的状态，就像欲望一样，需要它的相关对象--即一个充满钦佩和羡慕的观众的世界：因为如果你喜欢呆呆地看着微笑的人，这些人必须在那里，他们必须微笑。"
+**一个有限游戏需要一个观众，它可以在观众面前进行游戏，而观众需要单一地沉浸在它面前的事件中，这一事实表明了有限游戏和世界的关键互惠性。有限的游戏者需要世界来为理解他们自己提供一个绝对的参考；同时，世界需要有限游戏的剧场来保持一个世界。乔治-艾略特的反派角色格兰考，"对任何人的钦佩都不屑一顾；但这种不屑一顾的状态，就像欲望一样，需要它的相关对象--即一个充满钦佩和羡慕的观众的世界：因为如果你喜欢呆呆地看着微笑的人，这些人必须在那里，他们必须微笑。"**
 
-我们是寻找世界的玩家，就像我们是寻找玩家的世界一样，有时我们同时是两者。有些世界很快就出现了，也很快就消失了。有些则维持较长的时间，但没有一个世界是永远存在的。
+**我们是寻找世界的玩家，就像我们是寻找玩家的世界一样，有时我们同时是两者。有些世界很快就出现了，也很快就消失了。有些则维持较长的时间，但没有一个世界是永远存在的。**
 
 ### 65
 
@@ -951,7 +951,7 @@ featuredImage: https://libmind.github.io/img/e03_finite_and_infinite_games/zh.pn
 
 如果有限游戏的目标是为其永恒性赢得冠军，从而为自己赢得永恒的生命，那么无限游戏的本质是与时间性的矛盾接触，梅斯特-艾克哈特称之为 "永恒的诞生"。
 
-![images](https://libmind.github.io/img/e03_finite_and_infinite_gamesimages/000007.jpg)
+![images](https://libmind.github.io/img/e03_finite_and_infinite_games/images/000007.jpg)
 
 ### 70
 
@@ -1097,7 +1097,7 @@ featuredImage: https://libmind.github.io/img/e03_finite_and_infinite_games/zh.pn
 
 当历史学家看到任何始于自由的东西都不可能以必然性结束时，他们就会成为无限的发言者。
 
-![images](https://libmind.github.io/img/e03_finite_and_infinite_gamesimages/000009.jpg)
+![images](https://libmind.github.io/img/e03_finite_and_infinite_games/images/000009.jpg)
 
 ### 80
 
@@ -1281,7 +1281,7 @@ featuredImage: https://libmind.github.io/img/e03_finite_and_infinite_games/zh.pn
 
 大自然的无家可归，它对人类的存在完全漠不关心，向无限的玩家透露，大自然是戏剧性的天才。
 
-![images](https://libmind.github.io/img/e03_finite_and_infinite_gamesimages/000004.jpg)
+![images](https://libmind.github.io/img/e03_finite_and_infinite_games/images/000004.jpg)
 
 ### 94
 
@@ -1379,11 +1379,11 @@ featuredImage: https://libmind.github.io/img/e03_finite_and_infinite_games/zh.pn
 
 只有一个无限的游戏。
 
-![images](https://libmind.github.io/img/e03_finite_and_infinite_gamesimages/000011.jpg)
+![images](https://libmind.github.io/img/e03_finite_and_infinite_games/images/000011.jpg)
 
 ## 索引
 
-![images](https://libmind.github.io/img/e03_finite_and_infinite_gamesimages/000011.jpg)
+![images](https://libmind.github.io/img/e03_finite_and_infinite_games/images/000011.jpg)
 
 条目后面的数字指的是*章节。*
 

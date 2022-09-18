@@ -132,7 +132,7 @@ publishDir = "/Users/tangqiang/libmind.github.io/"
 # language: es
   [languages.es]
     weight = 4
-    title = "libmind-es"
+    title = "libmind"
     languageCode = "es"
     languageName = "Español"
     [[languages.es.menu.main]]
@@ -330,7 +330,7 @@ publishDir = "/Users/tangqiang/libmind.github.io/"
     # 文章内容最长索引长度
     contentLength = 4000
     # 搜索框的占位提示语
-    placeholder = "Search in Libmind's Library"
+    placeholder = "Search in libmind's Library"
     #  最大结果数目
     maxResultLength = 10
     #  结果内容片段长度
@@ -691,7 +691,7 @@ publishDir = "/Users/tangqiang/libmind.github.io/"
 
   # 网站验证代码，用于 Google/Bing/Yandex/Pinterest/Baidu
   [params.verification]
-    google = ""
+    google = "G-4NMDR55XPK"
     bing = ""
     yandex = ""
     pinterest = ""
