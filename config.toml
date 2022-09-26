@@ -1,4 +1,4 @@
-libmindlibmindbaseURL = "https://libmind.github.io/"
+baseURL = "https://libmind.github.io/"
 # [en, zh-cn, fr, ...] 设置默认的语言
 defaultContentLanguage = "en"
 # 网站语言, 仅在这里 CN 大写
