@@ -85,7 +85,9 @@ featuredImagePreview: "https://doraemonj.github.io/pics/libmind_main.jpeg"
 ### 联系我们
 
 - 网站： libmind.com
+- 微信：oftendie
 - Mixin messenger: 29273
 - MIxin 机器人: 7000104144
 - Twitter: ChrisHowardaka
 - 邮箱: chrishowardaka@gmail.com
+

@@ -341,8 +341,8 @@ publishDir = "/Users/tangqiang/libmind.github.io/"
     absoluteURL = false
     [params.search.algolia]
       index = "libmind_index"
-      appID = "OWBDNJ549C"
-      searchKey = "11bb8743f23190c30f6d5c0482205a1d"
+      appID = "1OI2240Y7B"
+      searchKey = "8b32a1d85c2332f2796eb6eabe08dd28"
 
   # 页面头部导航栏配置
   [params.header]

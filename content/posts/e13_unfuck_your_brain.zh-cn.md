@@ -6,7 +6,7 @@ draft: false
 
 tags: ["大脑"]
 categories: ["大脑"]
-featuredImagePreview: "https://momolibrary.github.io/img/e13_unfuck_your_brain/long/2.png"
+featuredImagePreview: "https://libmind.github.io/img/e13_unfuck_your_brain/long/2.png"
 ---
 
 **解开你的大脑**
